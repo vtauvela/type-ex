@@ -1,5 +1,47 @@
 /* Your Website Styles */
+body {
+	font-family: "Lato", sans-serif;
+	background: url("../img/zwartevilt.png");
+	color: #fff;
+	font-size: .95em;
+	max-width: 100%;
 
+}
+
+h1 {
+	color: #fff;
+	font-family: "Oswald", sans-serif;
+	font-size: 5.95em;
+	font-weight: 700;
+	text-align: left;
+	text-transform: uppercase;
+	margin-left: 5px;
+	line-height: 1.1em;
+}
+
+h3 {
+	color: #fff;
+	font-family: "Oswald", sans-serif;
+	font-size: 2.45em;
+	font-weight: 700;
+	text-transform: uppercase;
+	float: none;
+}
+
+img {
+	margin: 5px;
+    padding: 5px;
+    height: 45%;
+    width: 45%;
+    float: left;
+    size: 0.5em;
+}
+
+p {
+	max-width: auto;
+
+
+}
 
 /* Show Grid */
 .showgrid {
