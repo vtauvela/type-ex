@@ -38,7 +38,8 @@ img {
 }
 
 p {
-	max-width: auto;
+	max-width: 500px auto;
+
 
 
 }
